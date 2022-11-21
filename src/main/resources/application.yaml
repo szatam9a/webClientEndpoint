@@ -1,0 +1,3 @@
+weather.api:
+  url: https://api.open-meteo.com/v1/forecast?latitude=47.50&longitude=19.04&hourly=temperature_2m
+  city: Budapest
